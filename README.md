@@ -1,3 +1,8 @@
+# Project abandoned due to lack of interest of my co-programmer.
+
+
+
+
 # Phamily Photos
 A photo sharing app that allows family members to keep their pictures private while giving them the option to tag and sort.
 
